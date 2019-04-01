@@ -88,7 +88,7 @@ int main(void)
       case DHCP_IP_CHANGED:
         break;
       case DHCP_IP_LEASED:
-        //lam cai me gi thi viet vao day
+        //Code cho chuong trinh thi viet vao day
         socket_sn = socket_sn;
         break;
       case DHCP_FAILED:

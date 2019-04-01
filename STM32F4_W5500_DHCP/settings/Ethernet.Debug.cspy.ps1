@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\common\bin\cspybat" -f "C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\settings\Ethernet.Debug.general.xcl" --backend -f "C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\settings\Ethernet.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\common\bin\cspybat" -f "C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\settings\Ethernet.Debug.general.xcl" --backend -f "C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\settings\Ethernet.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\common\bin\cspybat" -f "C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\settings\Ethernet.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\settings\Ethernet.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\common\bin\cspybat" -f "C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\settings\Ethernet.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\settings\Ethernet.Debug.driver.xcl" 
 }

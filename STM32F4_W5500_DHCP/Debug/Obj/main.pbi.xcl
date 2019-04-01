@@ -1,25 +1,25 @@
-"C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\main.c"
+"C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Libraries
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Libraries
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Libraries\STM32F4xx_StdPeriph_Driver\inc
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Libraries\STM32F4xx_StdPeriph_Driver\inc
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Libraries\CMSIS\Include
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Libraries\CMSIS\Include
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Libraries\CMSIS\Device\ST\STM32F4xx\Include
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Libraries\CMSIS\Device\ST\STM32F4xx\Include
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\inc
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\inc
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Ethernet
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Ethernet
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Ethernet\W5500
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Ethernet\W5500
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Application\loopback
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Application\loopback
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\CMSIS\Core\Include
 -I
@@ -29,21 +29,21 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\inc\c
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Libraries
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Libraries
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Libraries\STM32F4xx_StdPeriph_Driver\inc
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Libraries\STM32F4xx_StdPeriph_Driver\inc
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Libraries\CMSIS\Include
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Libraries\CMSIS\Include
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Libraries\CMSIS\Device\ST\STM32F4xx\Include
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Libraries\CMSIS\Device\ST\STM32F4xx\Include
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\inc
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\inc
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Ethernet
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Ethernet
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Ethernet\W5500
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Ethernet\W5500
 -I
-C:\Users\buidi\OneDrive\Desktop\TestEthernet - Client\Application\loopback
+C:\Users\buidi\OneDrive\Desktop\Congty\PRJ4_3S\STM32F4_W5500_DHCP\STM32F4_W5500_DHCP\Application\loopback
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\CMSIS\Core\Include
 -I
